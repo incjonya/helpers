@@ -1,0 +1,3 @@
+Исследование БД кэша в MS SQL.
+https://www.sqlshack.com/insight-into-the-sql-server-buffer-cache/
+Поиск объектов в кэшэ, а так их его размеров и т.п.
