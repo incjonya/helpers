@@ -1,2 +1,2 @@
 # helpers
-usefull resources
+Полезные скрипты, ресурсы и т.д.
